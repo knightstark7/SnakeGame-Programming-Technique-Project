@@ -4,7 +4,8 @@ link demo: https://youtu.be/rHrA7-L1FFY
 ## PROJECT: HUNTING SNAKE GAME
 
 - **Lecturer**: Trương Toàn Thịnh.
-- **Teaching Assistant**: Lê Nhựt Nam, Phạm Trọng Nghĩa.
+- **Teaching Assistant**: Hồ Tuấn Thanh, Nguyễn Lê Hoàng Dũng, Mai Anh Tuấn.
+.
 
 ---
 
